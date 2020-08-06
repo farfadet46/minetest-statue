@@ -1,0 +1,1 @@
+quelques statues basées sur le modele 3D du perso, pour pouvoir lui affecter les textures déjà dispo pour les joueurs.
